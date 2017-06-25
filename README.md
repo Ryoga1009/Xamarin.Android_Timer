@@ -2,4 +2,4 @@
 
 IntervalTImerをXamarin.Androidでリライト
 
-問題しかないです
+色々と問題しかないです
