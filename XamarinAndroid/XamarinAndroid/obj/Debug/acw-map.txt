@@ -1,4 +1,0 @@
-XamarinAndroid.MainActivity, XamarinAndroid;md51b2d74381d7371a28de536bda96a5fad.MainActivity
-XamarinAndroid.MainActivity, XamarinAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51b2d74381d7371a28de536bda96a5fad.MainActivity
-XamarinAndroid.MainActivity;md51b2d74381d7371a28de536bda96a5fad.MainActivity
-xamarinandroid.MainActivity;md51b2d74381d7371a28de536bda96a5fad.MainActivity
