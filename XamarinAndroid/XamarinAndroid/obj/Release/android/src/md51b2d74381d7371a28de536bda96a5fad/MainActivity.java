@@ -10,8 +10,6 @@ public class MainActivity
 	public static final String __md_methods;
 	static {
 		__md_methods = 
-			"n_getRequestedOrientation:()I:GetGetRequestedOrientationHandler\n" +
-			"n_setRequestedOrientation:(I)V:GetSetRequestedOrientation_IHandler\n" +
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
 			"n_onResume:()V:GetOnResumeHandler\n" +
 			"";
@@ -25,22 +23,6 @@ public class MainActivity
 		if (getClass () == MainActivity.class)
 			mono.android.TypeManager.Activate ("XamarinAndroid.MainActivity, XamarinAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
-
-
-	public int getRequestedOrientation ()
-	{
-		return n_getRequestedOrientation ();
-	}
-
-	private native int n_getRequestedOrientation ();
-
-
-	public void setRequestedOrientation (int p0)
-	{
-		n_setRequestedOrientation (p0);
-	}
-
-	private native void n_setRequestedOrientation (int p0);
 
 
 	public void onCreate (android.os.Bundle p0)

@@ -1,7 +1,7 @@
-/Users/k17124kk/Projects/XamarinAndroid/XamarinAndroid/obj/Release/android/assets/XamarinAndroid.dll
-/Users/k17124kk/Projects/XamarinAndroid/XamarinAndroid/obj/Release/android/assets/Java.Interop.dll
-/Users/k17124kk/Projects/XamarinAndroid/XamarinAndroid/obj/Release/android/assets/Mono.Android.dll
-/Users/k17124kk/Projects/XamarinAndroid/XamarinAndroid/obj/Release/android/assets/System.Core.dll
-/Users/k17124kk/Projects/XamarinAndroid/XamarinAndroid/obj/Release/android/assets/System.dll
-/Users/k17124kk/Projects/XamarinAndroid/XamarinAndroid/obj/Release/android/assets/mscorlib.dll
-/Users/k17124kk/Projects/XamarinAndroid/XamarinAndroid/obj/Release/android/assets/System.Runtime.Serialization.dll
+/Users/k17124kk/Documents/Xamarin.Android_Timer/XamarinAndroid/XamarinAndroid/obj/Release/android/assets/XamarinAndroid.dll
+/Users/k17124kk/Documents/Xamarin.Android_Timer/XamarinAndroid/XamarinAndroid/obj/Release/android/assets/Java.Interop.dll
+/Users/k17124kk/Documents/Xamarin.Android_Timer/XamarinAndroid/XamarinAndroid/obj/Release/android/assets/Mono.Android.dll
+/Users/k17124kk/Documents/Xamarin.Android_Timer/XamarinAndroid/XamarinAndroid/obj/Release/android/assets/System.Core.dll
+/Users/k17124kk/Documents/Xamarin.Android_Timer/XamarinAndroid/XamarinAndroid/obj/Release/android/assets/System.dll
+/Users/k17124kk/Documents/Xamarin.Android_Timer/XamarinAndroid/XamarinAndroid/obj/Release/android/assets/mscorlib.dll
+/Users/k17124kk/Documents/Xamarin.Android_Timer/XamarinAndroid/XamarinAndroid/obj/Release/android/assets/System.Runtime.Serialization.dll
